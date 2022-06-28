@@ -5,9 +5,6 @@ import Rainbow from './components/Rainbow';
 function App() {
 
 
-
-
-
   return (
     <div className="App">
       <Rainbow />
