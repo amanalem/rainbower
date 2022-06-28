@@ -1,5 +1,6 @@
 {
   "name": "rainbower",
+  "homepage": "https://amanalem.github.io/rainbower",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
