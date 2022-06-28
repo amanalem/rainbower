@@ -1,0 +1,66 @@
+body {
+    font-family: 'Mukta', sans-serif;
+}
+
+#Rainbow {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    height: 100vh;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.Letter {
+    height: 100%;
+    align-items: center;
+}
+
+#r {
+    /* Red */
+    color: white;
+    /* background-color: #CC3333; */
+    background-image: linear-gradient(to bottom right, #CC3333, #FF934C);
+}
+
+#a {
+    /* Orange */
+    color: white;
+    /* background-color: #FF934C; */
+    background-image: linear-gradient(to bottom right, #FF934C, #FFCF4E);
+}
+
+#i {
+    /* Yellow */
+    color: white;
+    /* background-color: #FFCF4E; */
+    background-image: linear-gradient(to bottom right, #FFCF4E, #29b241);
+}
+
+#n {
+    /* Green */
+    color: white;
+    /* background-color: #29b241; */
+    background-image: linear-gradient(to bottom right, #29b241, #0059b3);
+}
+
+#b {
+    /* Blue */
+    color: white;
+    /* background-color: #0059b3; */
+    background-image: linear-gradient(to bottom right, #0059b3, #430075);
+}
+
+#o {
+    /* Indigo */
+    color: white;
+    /* background-color: #430075; */
+    background-image: linear-gradient(to bottom right, #430075, #ee82ee);
+}
+
+#w {
+    /* Violet */
+    color: white;
+    /* background-color: #ee82ee; */
+    background-image: linear-gradient(to bottom right, #ee82ee, #CC3333);
+}
